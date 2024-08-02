@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Dev-Mansi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d82a3d3d-2df5-4422-b307-dced88e99047",
+		"tenantId": "4e301088-3510-4cab-b3fe-e644fd2a63c9"
+	}
+}
