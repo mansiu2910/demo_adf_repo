@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADF-Dev-Mansi"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
